@@ -1,0 +1,8 @@
+{
+    "name": "auto-scale-guhan",
+    "version": "1.0.0",
+    "author": "guhan",
+    "dependencies": {
+        "express": "4.21.1"
+    }
+}
